@@ -2,7 +2,7 @@
 # 
 # Open Source energy MOdeling SYStem
 #
-# Modified by Francesco Gardumi, Cristina Maggi and Manuel Welsch
+# Modified by Manuel Welsch
 # Main changes to original version OSeMOSYS_2017_11_08
 # Introduction of blocks of functionality for:
 # - Reserve capacity (as from Welsch et al. (2014))
